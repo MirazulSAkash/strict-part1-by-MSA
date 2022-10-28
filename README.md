@@ -1,0 +1,1 @@
+# strict-part1-by-MSA
